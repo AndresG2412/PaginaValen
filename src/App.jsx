@@ -37,7 +37,7 @@ function App() {
         <p className="font-bold text-white tracking-widest text-center md:text-3xl">Te amo por una y mil razones que no termino de contar nunca</p>
       </div>
 
-      <div className="flex justify-center md:mt-24 mt-12">
+      <div className="flex justify-center md:mt-24 my-12">
         <Slider images={images}/>
       </div>
     </>
